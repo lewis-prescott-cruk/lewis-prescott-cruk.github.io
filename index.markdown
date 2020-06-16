@@ -5,6 +5,8 @@
 layout: home
 ---
 
+![Alt text](/assets/images/the-three-amigos.jpg)
+
 | Topics       |
 |:-------------|
 | [accessibility]({% link cards/accessibility.md %})  |
@@ -18,5 +20,3 @@ layout: home
 | [security]({% link cards/security.md %}) |
 | [testability]({% link cards/testability.md %}) |
 | [usability]({% link cards/usability.md %}) |
-
-![Alt text](/assets/images/the-three-amigos.jpg)
