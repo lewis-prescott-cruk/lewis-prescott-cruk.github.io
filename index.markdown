@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# 3 Amigos
+
+![Alt text](/assets/images/the-three-amigos.jpg)
