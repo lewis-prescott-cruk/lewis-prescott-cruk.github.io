@@ -5,6 +5,10 @@
 layout: home
 ---
 
+| Topics       |
+|:-------------|
+| [accessibility]({% link cards/accessibility.md %})  |
+
 [accessibility]({% link cards/accessibility.md %}) <br />
 [automation]({% link cards/automation.md %}) <br />
 [data]({% link cards/data.md %}) <br />
