@@ -8,17 +8,15 @@ layout: home
 | Topics       |
 |:-------------|
 | [accessibility]({% link cards/accessibility.md %})  |
-
-[accessibility]({% link cards/accessibility.md %}) <br />
-[automation]({% link cards/automation.md %}) <br />
-[data]({% link cards/data.md %}) <br />
-[general]({% link cards/general.md %}) <br />
-[monitoring]({% link cards/monitoring.md %}) <br />
-[performance]({% link cards/performance.md %}) <br />
-[regression]({% link cards/regression.md %}) <br />
-[release]({% link cards/release.md %}) <br />
-[security]({% link cards/security.md %}) <br />
-[testability]({% link cards/testability.md %}) <br />
-[usability]({% link cards/usability.md %})
+| [automation]({% link cards/automation.md %}) |
+| [data]({% link cards/data.md %}) |
+| [general]({% link cards/general.md %}) |
+| [monitoring]({% link cards/monitoring.md %}) |
+| [performance]({% link cards/performance.md %}) |
+| [regression]({% link cards/regression.md %}) |
+| [release]({% link cards/release.md %}) |
+| [security]({% link cards/security.md %}) |
+| [testability]({% link cards/testability.md %}) |
+| [usability]({% link cards/usability.md %}) |
 
 ![Alt text](/assets/images/the-three-amigos.jpg)
